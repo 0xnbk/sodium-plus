@@ -33,7 +33,7 @@
     "libsodium-wrappers": "^0.7.6",
     "poly1305-js": "^0.4.2",
     "typedarray-to-buffer": "^3.1.5",
-    "xsalsa20": "^1.1.0"
+    "xsalsa20": "0xnbk/xsalsa20"
   },
   "repository": "https://github.com/paragonie/sodium-plus",
   "main": "index.js",
